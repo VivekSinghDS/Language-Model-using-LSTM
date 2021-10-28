@@ -16,6 +16,8 @@ Output : Harry Has Been Wandering Over To The Hospital Wing For A Moment He Had 
 Time taken : 500ms 
 
 
+Optimized code is present where one can just load the data and process their outcome. 
+
 
 
 
